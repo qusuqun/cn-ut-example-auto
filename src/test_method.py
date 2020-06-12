@@ -1,6 +1,6 @@
 import sys
 sys.path.append(r'D:\selenium_python\Python\cn-unittest-example-automation')
-from calculator import Count
+from common.calculator import Count
 import unittest
 
 class TestCount(unittest.TestCase):

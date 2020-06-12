@@ -1,6 +1,6 @@
 import sys
 sys.path.append(r'D:\selenium_python\Python\cn-unittest-example-automation')
-from test_method import TestCount
+from src.test_method import TestCount
 import os
 import time
 import unittest
